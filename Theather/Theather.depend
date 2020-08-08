@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589481754 source:c:\users\usuario\desktop\aplicação - ex teatro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1589483372 source:c:\users\usuario\desktop\stuff\faculdade\semestre 1\apc a (algoritmos)\aplicação - ex teatro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588953352 source:c:\users\usuario\desktop\ex gabarito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1588955903 source:c:\users\usuario\desktop\stuff\faculdade\semestre 1\apc a (algoritmos)\ex gabarito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
